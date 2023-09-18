@@ -1,1 +1,1 @@
-# Excel-Dashboards- If the File Size are Too Heavy they wont show you the Project You can just Download the project and can view and Edit some changes according to your Preferences 
+# Excel-Dashboards- If the File Size is Too Heavy they wont show you the Project For Simplification You can just Download the project and can view and Edit it according to your Preferences 
