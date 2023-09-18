@@ -1,1 +1,1 @@
-# Excel-Dashboards- If the File Size is Too Heavy they wont show you the Project For Simplification You can just Download the project and can view and Edit it according to your Preferences 
+# Excel-Dashboards- They won't display the project work to you Because the file size is too large.  For the sake of simplification, you can just download the project and view it or edit it as desired. 
